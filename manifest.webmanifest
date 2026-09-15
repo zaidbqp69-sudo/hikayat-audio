@@ -1,0 +1,11 @@
+{
+  "name": "حكايات — تعلّم الإنجليزية بالقصص",
+  "short_name": "حكايات",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./hikayat-final-complete-2.html",
+  "display": "standalone",
+  "background_color": "#1B1A2E",
+  "theme_color": "#1B1A2E",
+  "description": "تعلّم الإنجليزية بالقصص والتدريب التفاعلي"
+}
